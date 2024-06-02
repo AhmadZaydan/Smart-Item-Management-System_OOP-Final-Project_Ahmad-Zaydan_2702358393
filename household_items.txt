@@ -1,0 +1,63 @@
+
+### Kitchen
+- Appliances: Refrigerator, Oven, Microwave, Dishwasher, Toaster, Blender
+- Cookware: Pot, Pan, Baking Sheet
+- Utensils: Knife, Fork, Spoon, Spatula, Tong, Whisk
+- Tableware: Plate, Bowl, Cup, Glass, Mug
+- Storage: Tupperware, Food Container, Spice Rack, Bin
+- Cleaning Supplies: Dish Soap, Sponge, Towel, Dish Rack
+
+### Living Room
+- Furniture: Sofa, Armchair, Coffee Table, Bookshelf, TV Stand
+- Electronics: Television, Remote Control, Stereo System, Gaming Console
+- Decor: Lamp, Rug, Curtain, Picture Frame, Plant
+- Storage: Cabinet, Basket, Shelf
+
+### Bedroom
+- Furniture: Bed, Mattress, Nightstand, Dresser, Wardrobe
+- Bedding: Sheet, Pillow, Comforter, Blanket
+- Lighting: Table Lamp, Floor Lamp, Reading Light
+- Decor: Mirror, Wall Art, Curtain, Alarm Clock
+
+### Bathroom
+- Toiletries: Toothbrush, Toothpaste, Shampoo, Conditioner, Soap, Lotion
+- Linens: Towel, Washcloth, Bath Mat
+- Cleaning Supplies: Toilet Brush, Cleaner, Plunger, Bathroom Spray
+- Storage: Medicine Cabinet, Shelf, Basket
+
+### Laundry Room
+- Appliances: Washing Machine, Dryer, Iron, Ironing Board
+- Cleaning Supplies: Laundry Detergent, Fabric Softener, Stain Remover, Dryer Sheet
+- Storage: Laundry Basket, Hamper, Shelving Unit
+
+### Home Office
+- Furniture: Desk, Chair, Filing Cabinet, Bookshelf
+- Electronics: Computer, Printer, Scanner, Phone
+- Supplies: Paper, Pen, Pencil, Stapler, Paper Clip, Notebook
+- Organization: Desk Organizer, Bulletin Board, Whiteboard
+
+### Garage
+- Tools: Hammer, Screwdriver, Wrench Set, Drill, Saw
+- Outdoor Equipment: Lawn Mower, Garden Tool, Hose, Leaf Blower
+- Storage: Shelving Unit, Toolbox, Bin, Pegboard
+- Automotive: Car Cleaning Supply, Oil, Jumper Cable, Tire Pump
+
+### Dining Room
+- Furniture: Dining Table, Chair, Buffet, Sideboard
+- Tableware: Place mat, Tablecloth, Napkin, Centerpiece
+- Serving Items: Serving Platter, Pitcher, Gravy Boat, Salad Bowl
+
+### Utility/Storage Room
+- Cleaning Supplies: Broom, Mop, Vacuum Cleaner, Cleaning Solution
+- Storage Solutions: Shelf, Bin, Box, Hook
+- Miscellaneous: Light Bulb, Battery, Extension Cord, Tool Kit
+
+### Food
+- Fruits: Apple, Banana, Orange, Grape, Berry
+- Vegetables: Carrot, Broccoli, Spinach, Potato, Tomato
+- Dairy: Milk, Cheese, Yogurt, Butter, Egg
+- Meat: Chicken, Beef, Pork, Fish, Bacon
+- Grains: Bread, Rice, Pasta, Cereal, Oat
+- Snacks: Chips, Cookies, Nuts, Chocolate, Crackers
+- Beverages: Water, Juice, Coffee, Tea, Soda
+- Condiments: Ketchup, Mustard, Mayonnaise, Soy Sauce, Vinegar
